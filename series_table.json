@@ -1,1 +1,14 @@
-{}
+{
+  "Game Of Thrones": [
+    2,
+    12,
+    "thumbnails/game-of-thrones.jpg",
+    "2019-02-08 21:19:54.935173"
+  ],
+  "Breaking Bad": [
+    5,
+    10,
+    "thumbnails/breaking-bad.jpg",
+    "2019-02-08 21:20:47.823198"
+  ]
+}
