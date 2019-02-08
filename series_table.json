@@ -1,14 +1,110 @@
 {
-  "Game Of Thrones": [
-    2,
-    12,
-    "thumbnails/game-of-thrones.jpg",
-    "2019-02-08 21:19:54.935173"
-  ],
   "Breaking Bad": [
     5,
-    10,
+    16,
     "thumbnails/breaking-bad.jpg",
-    "2019-02-08 21:20:47.823198"
+    "2019-02-08 21:30:10.834534"
+  ],
+  "Scorpion": [
+    4,
+    22,
+    "thumbnails/scorpion.jpg",
+    "2019-02-08 21:31:50.177216"
+  ],
+  "The Big Bang Theory": [
+    10,
+    15,
+    "thumbnails/the-big-bang-theory.jpg",
+    "2019-02-08 21:30:55.530091"
+  ],
+  "Grown-Ish": [
+    1,
+    1,
+    "thumbnails/grown-ish.jpg",
+    "2019-02-08 21:31:33.369255"
+  ],
+  "2 Broke Girls": [
+    6,
+    22,
+    "thumbnails/2-broke-girls.jpg",
+    "2019-02-08 21:29:45.794102"
+  ],
+  "Blindspot": [
+    4,
+    6,
+    "thumbnails/blindspot.jpg",
+    "2019-02-08 21:30:04.226156"
+  ],
+  "Peaky Blinders": [
+    4,
+    6,
+    "thumbnails/peaky-blinders.jpg",
+    "2019-02-08 21:31:39.833625"
+  ],
+  "Narcos Mexico": [
+    1,
+    10,
+    "thumbnails/narcos-mexico.jpg",
+    "2019-02-08 21:30:34.329878"
+  ],
+  "Black Mirror": [
+    1,
+    10,
+    "thumbnails/black-mirror.jpg",
+    "2019-02-08 21:29:56.929739"
+  ],
+  "Disenchantment": [
+    1,
+    10,
+    "thumbnails/disenchantment.jpg",
+    "2019-02-08 21:30:16.801876"
+  ],
+  "The Walking Dead": [
+    8,
+    6,
+    "thumbnails/the-walking-dead.jpg",
+    "2019-02-08 21:31:02.545492"
+  ],
+  "Silicon Valley": [
+    5,
+    8,
+    "thumbnails/silicon-valley.jpg",
+    "2019-02-08 21:31:54.833483"
+  ],
+  "Queen Of The South": [
+    1,
+    1,
+    "thumbnails/queen-of-the-south.jpg",
+    "2019-02-08 21:31:45.129928"
+  ],
+  "Westworld": [
+    1,
+    7,
+    "thumbnails/westworld.jpg",
+    "2019-02-08 21:31:15.393227"
+  ],
+  "Young Sheldon": [
+    2,
+    1,
+    "thumbnails/young-sheldon.jpg",
+    "2019-02-08 21:31:19.425458"
+  ],
+  "Altered Carbon": [
+    2,
+    12,
+    "thumbnails/altered-carbon.jpg",
+    "2019-02-08 21:33:43.074674"
+  ],
+  "Dynasty": [
+    1,
+    8,
+    "thumbnails/dynasty.jpg",
+    "2019-02-08 21:30:22.954228"
+  ],
+  "The Good Doctor": [
+    2,
+    12,
+    "thumbnails/the-good-doctor.jpg",
+    "2019-02-08 21:30:59.177299"
   ]
 }
