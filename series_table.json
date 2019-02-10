@@ -1,4 +1,10 @@
 {
+  "Breaking Bad": [
+    5,
+    16,
+    "thumbnails/breaking-bad.jpg",
+    "2019-02-08 21:30:10.834534"
+  ],
   "Scorpion": [
     4,
     22,
@@ -25,15 +31,9 @@
   ],
   "Blindspot": [
     4,
-    6,
+    8,
     "thumbnails/blindspot.jpg",
-    "2019-02-08 21:30:04.226156"
-  ],
-  "Peaky Blinders": [
-    4,
-    6,
-    "thumbnails/peaky-blinders.jpg",
-    "2019-02-08 21:31:39.833625"
+    "2019-02-10 22:24:11.694162"
   ],
   "Narcos Mexico": [
     1,
@@ -52,12 +52,6 @@
     10,
     "thumbnails/disenchantment.jpg",
     "2019-02-08 21:30:16.801876"
-  ],
-  "The Walking Dead": [
-    8,
-    6,
-    "thumbnails/the-walking-dead.jpg",
-    "2019-02-08 21:31:02.545492"
   ],
   "Silicon Valley": [
     5,
